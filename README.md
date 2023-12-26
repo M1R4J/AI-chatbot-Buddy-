@@ -17,7 +17,7 @@ This project is an AI assistant that can help you with your studies, and can be 
 1. Clone the repository
 2. Install dependencies
 3. Replace OpenAI API openai.api_key = ' Replace with your key'
-4. To run script use command python '''python main.py'''
+4. To run script use command python '''python Main.py'''
 
 ## Disclaimer
 
