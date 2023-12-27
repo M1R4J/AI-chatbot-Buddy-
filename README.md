@@ -1,6 +1,6 @@
 ## Buddy-AI-Studying-Assistant-Using-Python
 
-This project is an AI assistant that can help you with your studies, and can be your buddy!
+This project is an AI assistant that can help you with your studies and can be your buddy!
 
 ## Features
 
